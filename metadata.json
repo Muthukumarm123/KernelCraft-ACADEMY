@@ -1,0 +1,6 @@
+{
+  "name": "KernelCraft: Computer Science, Linux & Cybersecurity Academy",
+  "description": "Comprehensive textbook, personal tutor, interactive lab platform, and progress tracker covering Computer Hardware, Linux, Programming, Networking, and Cybersecurity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
